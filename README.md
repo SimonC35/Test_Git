@@ -6,3 +6,5 @@ Après cela on peux simplement faire un:
 > $ git push
 
 Pour push sur la banche main, si l'on veux changer de branche on refait un -u.
+
+Hello World !
